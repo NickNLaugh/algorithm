@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="642797e1-a5ee-4c86-a22a-e0ad3e3fcab0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="F:\Software\git\Git\bin\git.exe" />
+  </component>
+  <component name="ProjectId" id="1b57WudKPjsLOrQgjM4oJ1WyCnc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyFile/SpringMVC_Pro" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.HelloWorld">
+    <configuration name="SpringBoot-Test-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/SpringBoot-Test-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloWorld" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="MyProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.HelloWorld" />
+        <item itemvalue="JAR Application.SpringBoot-Test-1.0-SNAPSHOT.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="642797e1-a5ee-4c86-a22a-e0ad3e3fcab0" name="Default Changelist" comment="" />
+      <created>1587910135862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587910135862</updated>
+      <workItem from="1587910137383" duration="2532000" />
+      <workItem from="1587996925522" duration="2188000" />
+      <workItem from="1588041141761" duration="6590000" />
+      <workItem from="1588775621770" duration="1440000" />
+      <workItem from="1589378634814" duration="40000" />
+      <workItem from="1589381914543" duration="889000" />
+      <workItem from="1590056343938" duration="68000" />
+      <workItem from="1618230220306" duration="1198000" />
+      <workItem from="1618235428149" duration="53000" />
+      <workItem from="1618235517343" duration="19000" />
+      <workItem from="1618235571051" duration="2423000" />
+      <workItem from="1618238065014" duration="856000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="625" y="239" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1618235766007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="239" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618235766007" />
+    <state x="687" y="214" key="FileChooserDialogImpl" timestamp="1618238238205">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="214" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618238238205" />
+    <state x="717" y="418" key="Github.CreateGistDialog" timestamp="1618238866128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="717" y="418" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618238866128" />
+    <state x="329" y="77" key="SettingsEditor" timestamp="1618238921267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="329" y="77" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618238921267" />
+  </component>
+</project>
